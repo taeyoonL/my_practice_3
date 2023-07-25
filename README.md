@@ -7,3 +7,5 @@
 3. 오른쪽에서 이미지를 선택한 경우, 하단에 있는 이미지 뷰를 통해 선택한 이미지를 더 크게 나타낸다.
 
 # 실행 화면
+
+![ezgif com-video-to-gif](https://github.com/taeyoonL/picker_view_2/assets/132141316/ea064e6f-90dc-4415-b8cf-e8a161c7d9cd)
